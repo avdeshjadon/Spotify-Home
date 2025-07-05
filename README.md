@@ -1,29 +1,43 @@
-# 🎵 Spotify Homepage Clone (HTML & CSS)
+# Spotify Homepage Clone
 
-A pixel-perfect clone of Spotify's desktop homepage interface built with pure **HTML & CSS** (no JavaScript or frameworks). Perfect for learning modern web layout techniques!
+A pixel-perfect desktop homepage clone of **Spotify** built using only **HTML** and **CSS** — no JavaScript or frameworks involved.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://avdeshjadon-dev.github.io/Spotify-Home/)
-![Tech Stack](https://img.shields.io/badge/HTML5-CSS3-orange)
+---
 
-![Spotify Clone Preview](preview.jpg) *Replace with actual screenshot*
+## 🚀 Live Demo
 
-## ✨ Features
+Check out the live hosted version here:  
+[https://avdeshjadon-dev.github.io/Spotify-Home/](https://avdeshjadon-dev.github.io/Spotify-Home/)
 
-- **Semantic HTML5** markup
-- **CSS Grid & Flexbox** layout system
-- **Responsive design** (desktop-optimized)
-- **Spotify color palette** and typography
-- **Hover effects** on interactive elements
-- **Pure CSS** implementation (no JS)
+---
 
-## 🛠️ Technologies Used
+## 📁 About the Project
 
-- HTML5 (semantic structure)
-- CSS3 (Flexbox, Grid, variables)
-- GitHub Pages (hosting)
+This project is a recreation of Spotify’s desktop homepage interface focusing purely on frontend skills with semantic HTML and modern CSS techniques. The goal was to replicate the look and feel of Spotify’s homepage as closely as possible without using any JavaScript.
 
-## 🚀 Installation
+---
 
-1. Clone the repository:
-```bash
-git clone https://github.com/avdeshjadon-dev/Spotify-Home.git
+## 🛠️ Features
+
+- Pixel-perfect clone of Spotify’s desktop homepage layout  
+- Uses the exact same icons as Spotify (manually sourced and integrated)  
+- Montserrat font used as a close match to Spotify’s proprietary font  
+- Clean and semantic HTML structure for accessibility and SEO  
+- Responsive layout built using **Flexbox** and **CSS Grid** (Note: currently desktop-only version)  
+- Attention to detail with spacing, typography, color scheme, and animations  
+- Hosted live on GitHub Pages for easy access and demonstration  
+
+---
+
+## 🎯 What I Learned
+
+- Planning and building complex layouts using only HTML and CSS  
+- Recreating real-world UI with pixel-perfect precision  
+- Improving semantic HTML markup and accessibility best practices  
+- Enhancing skills with Flexbox and CSS Grid for responsive design planning  
+- Understanding visual hierarchy, spacing, and typography nuances  
+
+---
+
+## 📂 Project Structure
+
