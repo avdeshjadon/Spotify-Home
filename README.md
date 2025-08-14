@@ -7,7 +7,7 @@ A pixel-perfect desktop homepage clone of **Spotify** built using only **HTML** 
 ## 🚀 Live Demo
 
 Check out the live hosted version here:  
-[https://avdeshjadon-dev.github.io/Spotify-Home/](https://avdeshjadon.github.io/Spotify-Home/)
+[https://avdeshjadon.github.io/Spotify-Home/](https://avdeshjadon.github.io/Spotify-Home/)
 
 ---
 
