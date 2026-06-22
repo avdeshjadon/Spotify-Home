@@ -4,20 +4,20 @@ A pixel-perfect desktop homepage clone of **Spotify** built using only **HTML** 
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
 Check out the live hosted version here:  
 [https://avdeshjadon.github.io/Spotify-Home/](https://avdeshjadon.github.io/Spotify-Home/)
 
 ---
 
-## 📁 About the Project
+## About the Project
 
 This project is a recreation of Spotify’s desktop homepage interface focusing purely on frontend skills with semantic HTML and modern CSS techniques. The goal was to replicate the look and feel of Spotify’s homepage as closely as possible without using any JavaScript.
 
 ---
 
-## 🛠️ Features
+## Features
 
 - Pixel-perfect clone of Spotify’s desktop homepage layout  
 - Uses the exact same icons as Spotify (manually sourced and integrated)  
@@ -29,7 +29,7 @@ This project is a recreation of Spotify’s desktop homepage interface focusing 
 
 ---
 
-## 🎯 What I Learned
+## What I Learned
 
 - Planning and building complex layouts using only HTML and CSS  
 - Recreating real-world UI with pixel-perfect precision  
@@ -37,7 +37,4 @@ This project is a recreation of Spotify’s desktop homepage interface focusing 
 - Enhancing skills with Flexbox and CSS Grid for responsive design planning  
 - Understanding visual hierarchy, spacing, and typography nuances  
 
----
-
-## 📂 Project Structure
 
